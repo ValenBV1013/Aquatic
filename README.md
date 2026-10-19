@@ -6,8 +6,8 @@ Un proyecto full-stack moderno diseñado para la gestión y visualización de es
 
 ## 🚀 Demo en Vivo
 
-- **Frontend (Vercel):** [https://aquatic-omega.vercel.app/](https://aquatic-omega.vercel.app/) *(Reemplaza con tu URL de Vercel)*
-- **Backend (Render):** [https://aquatic-w42p.onrender.com](https://aquatic-w42p.onrender.com) *(Reemplaza con tu URL de Render)*
+- **Frontend (Vercel):** [https://aquatic-omega.vercel.app/](https://aquatic-omega.vercel.app/) 
+- **Backend (Render):** [https://aquatic-w42p.onrender.com](https://aquatic-w42p.onrender.com) 
 
 ---
 
