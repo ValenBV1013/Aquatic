@@ -125,7 +125,7 @@ export default function App() {
       once: false,
     });
 
-    const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:8000/api/data/';
+    const apiUrl = import.meta.env.VITE_API_URL || 'https://aquatic-w42p.onrender.com';
     axios.get(apiUrl)
       .then(res => {
         if (res.data) setData(res.data);
